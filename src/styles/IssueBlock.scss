@@ -13,11 +13,20 @@
 
 .issue-image {
   width: 70%;
+  height: 300px; /* Fixed height for consistent sizing */
   border-radius: 8px;
   transition: box-shadow 0.3s ease-in-out;
   cursor: pointer;
+  object-fit: cover; /* Crop images to fit the container */
+  object-position: center; /* Center the crop */
   
   &:hover {
     box-shadow: 0px 0px 15px rgba(249, 248, 248, 0.3);
+  }
+  
+  // Make images bigger on mobile
+  @media (max-width: 767px) {
+    width: 85%; /* Increased from 70% to 85% */
+    height: 250px; /* Slightly reduced height for mobile */
   }
 }

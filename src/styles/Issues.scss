@@ -25,6 +25,19 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
+  
+  // Reduce horizontal gap on mobile and make items bigger
+  @media (max-width: 767px) {
+    .row {
+      margin-left: -2px;
+      margin-right: -2px;
+    }
+    
+    .col {
+      padding-left: 2px;
+      padding-right: 2px;
+    }
+  }
 }
 
 .issues {

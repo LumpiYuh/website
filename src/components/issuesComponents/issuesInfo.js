@@ -6,6 +6,12 @@ export const issuesInfo = [
     description: "In a culture shaped by immediacy, automation, and endless consumption, it is tempting to slip into apathy. It's easy to disengage, to let the world pass through us without anchoring to it. FERVOR is our refusal. It is our commitment to doing the difficult, messy, vibrant work of creating, connecting, and showing up.",
   },
   { 
+    picture: require("../../static/issues/pandora_box.jpg"),
+    title: "Pandora's Box",
+    link: "https://issuu.com/trenducsd/docs/pandora_box", // Placeholder link - update when live
+    description: "Mini zine issue",
+  },
+  { 
     picture: require("../../static/issues/Diorama_Master.jpg"),
     title: "Diorama",
     link: "https://issuu.com/trenducsd/docs/diorama", // Placeholder link - update when live

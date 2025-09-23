@@ -92,7 +92,7 @@
     .section-title {
       font-size: 3.5rem;
       font-weight: 800;
-      color: white !important;
+      color: white;
       margin-bottom: 30px;
       line-height: 1.1;
       letter-spacing: -0.02em;
@@ -102,9 +102,10 @@
     .section-description {
       font-size: 1.6rem; /* match artifact description */
       line-height: 1.6;
-      color: white !important;
-      max-width: 500px;
-      opacity: 1;
+      color: white;
+      max-width: 100%; /* use full available width within text-content */
+      opacity: 0.95;
+      word-wrap: break-word; /* ensure long words wrap properly */
     }
   }
 
