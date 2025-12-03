@@ -311,32 +311,42 @@ export const teamInfo = [
   },
   {
     picture: () => import("../../static/team/Zander_Vilaysane.JPG"),
-    name: "Zander Vilaysane",
+    name: "Taira Sakamoto",
     position: "Web Developer",
   },
   {
     picture: () => import("../../static/team/Catherine_Hoang.JPG"),
-    name: "Catherine Hoang",
+    name: "Angelo Belardo",
     position: "Web Developer"
   },
   {
     picture: () => import("../../static/team/Edna_Ho.JPG"),
-    name: "Edna Ho",
+    name: "Nadine Arguelles",
     position: "Web Developer"
   },
   {
     picture: () => import("../../static/team/Jay_Gao.JPG"),
-    name: "Jay Gao",
+    name: "Brina Wang",
     position: "Web Developer"
   },
   {
     picture: () => import("../../static/team/Nelson_Chen.JPG"),
-    name: "Nelson Chen",
+    name: "Kaylie Lai",
     position: "Web Developer"
   },
   {
     picture: () => import("../../static/team/Olivia_Garrett.JPG"),
-    name: "Olivia Garrett",
+    name: "Breck Abugan",
+    position: "Web Developer"
+  },
+    {
+    picture: () => import("../../static/team/Olivia_Garrett.JPG"),
+    name: "Roxanne Wang",
+    position: "Web Developer"
+  },
+  {
+    picture: () => import("../../static/team/Olivia_Garrett.JPG"),
+    name: "Elisa Le",
     position: "Web Developer"
   },
 ];
