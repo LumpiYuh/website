@@ -11,17 +11,7 @@ export const teamInfo = [
   },
   {
     picture: () => import("../../static/team/Aidan_Sidikpramana.jpg"),
-    name: "Aidan Sidikpramana",
-    position: "Photographer"
-  },
-  {
-    picture: () => import("../../static/team/Alyssa_Verheem.JPG"),
-    name: "Alyssa Verheem",
-    position: "Photographer"
-  },
-  {
-    picture: () => import("../../static/team/Laura_Liang.jpg"),
-    name: "Laura Liang",
+    name: "Cathy Zhou",
     position: "Photographer"
   },
   {
@@ -30,13 +20,8 @@ export const teamInfo = [
     position: "Photographer"
   },
   {
-    picture: () => import("../../static/team/Eva_Zheng.jpg"),
-    name: "Eva Zheng",
-    position: "Photographer"
-  },
-  {
-    picture: () => import("../../static/team/Jacobo_Cortes.JPG"),
-    name: "Jacobo Cortes",
+    picture: () => import("../../static/team/Alyssa_Verheem.JPG"),
+    name: "Jersey Rosetes",
     position: "Photographer"
   },
   {
@@ -50,8 +35,43 @@ export const teamInfo = [
     position: "Photographer"
   },
   {
+    picture: () => import("../../static/team/Laura_Liang.jpg"),
+    name: "Wai Shan Vanessa Mak",
+    position: "Photographer"
+  },
+  {
+    picture: () => import("../../static/team/Eva_Zheng.jpg"),
+    name: "Arta Abdolzadeh",
+    position: "Photographer"
+  },
+  {
+    picture: () => import("../../static/team/Jacobo_Cortes.JPG"),
+    name: "Sharon Heo",
+    position: "Photographer"
+  },
+  {
     picture: () => import("../../static/team/Vanessa_Mak.JPG"),
-    name: "Vanessa Mak",
+    name: "Hilman Muhammad",
+    position: "Photographer"
+  },
+  {
+    picture: () => import("../../static/team/Vanessa_Mak.JPG"),
+    name: "Althea Allen",
+    position: "Photographer"
+  },
+  {
+    picture: () => import("../../static/team/Vanessa_Mak.JPG"),
+    name: "Tabitha Finamore",
+    position: "Photographer"
+  },
+  {
+    picture: () => import("../../static/team/Vanessa_Mak.JPG"),
+    name: "Sean Jones",
+    position: "Photographer"
+  },
+  {
+    picture: () => import("../../static/team/Vanessa_Mak.JPG"),
+    name: "Roxanne Mayali",
     position: "Photographer"
   },
   {
