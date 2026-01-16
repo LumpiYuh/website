@@ -273,8 +273,7 @@ export const teamInfo = [
     position: "Marketing"
   },
   {
-    //change pic
-    picture: () => import("../../static/team/Mia_Elliott.jpg"),
+    picture: () => import("../../static/team/Venice_Poggi.jpeg"),
     name: "Venice Poggi",
     position: "Stylist"
   },
@@ -291,8 +290,7 @@ export const teamInfo = [
     position: "Stylist",
   },
   {
-    //change
-    picture: () => import("../../static/team/Daniel_Nepomuceno.jpg"),
+    picture: () => import("../../static/team/Kaylie_Camacho.jpeg"),
     name: "Kaylie Camacho",
     position: "Stylist"
   },
@@ -303,14 +301,12 @@ export const teamInfo = [
     position: "Stylist"
   },
   {
-    //change
-    picture: () => import("../../static/team/John_Noah_Pope.JPG"),
+    picture: () => import("../../static/team/Miguel_Orozco.jpeg"),
     name: "Miguel Orozco",
     position: "Stylist"
   },
   {
-    //change
-    picture: () => import("../../static/team/Ky_en_dokes.JPG"),
+    picture: () => import("../../static/team/Kevin_Garcia.jpeg"),
     name: "Kevin Garcia",
     position: "Stylist"
   },
@@ -321,8 +317,7 @@ export const teamInfo = [
     position: "Stylist"
   },
   { 
-    //change
-    picture: () => import("../../static/team/Talia_Thessen.JPG"),
+    picture: () => import("../../static/team/Perla_Perez.JPG"),
     name: "Perla Perez",
     position: "Stylist"
   },
@@ -339,8 +334,7 @@ export const teamInfo = [
     position: "Stylist"
   },
   {
-    //change
-    picture: () => import("../../static/team/Kaylie_Camacho.jpeg"),
+    picture: () => import("../../static/team/Mariah_DeMordaunt.JPEG"),
     name: "Mariah DeMordaunt",
     position: "Stylist"
   },
